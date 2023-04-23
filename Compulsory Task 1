@@ -1,3 +1,0 @@
-# remove '$' from sentence
-hero = "$$$Superman$$$"
-print(hero.strip('$'))
